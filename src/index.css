@@ -5,7 +5,8 @@ body {
 }
 
 .content{
-  margin: 0 auto;
-  width: 80%;
+  margin: 20px auto;
+  width:40%;
   text-align: center;
+  background-color: bisque;
 }

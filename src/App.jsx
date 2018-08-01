@@ -1,9 +1,10 @@
 import React from 'react';
+import ToDoList from './ToDoList/ToDoList';
 
 const App = () => {
   return (
     <div className="content">
-      To do list
+      <ToDoList />
     </div>
   );
 };
